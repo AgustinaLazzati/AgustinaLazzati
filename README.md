@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Agustina  
 
-<!--
-**AgustinaLazzati/AgustinaLazzati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Turning ideas into code, one neuron at a time."  
 
-Here are some ideas to get you started:
+I'm a **student of Artificial Intelligence** at **Universidad Autónoma de Barcelona** with a passion for creating **innovative solutions**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Even though I'm just starting my journey, I dream of building AI systems that can **change lives**.  
+
+---
+
+## 🎯 My Mission
+- Learn  **computer vision**, **deep learning** and **data engineering** at the highest level  
+- Explore AI applications in **healthcare** and **life sciences**  
+- Turn curiosity into **innovative projects**  
+
+---
+
+## 🛠️ What I’m Learning
+```python
+skills = ["Deep Learning", "Computer Vision", "Computational Logic", "Data Engineering"]
+for skill in skills:
+    print(f"💡 Currently improving: {skill}")
+```
