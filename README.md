@@ -14,10 +14,4 @@ Even though I'm just starting my journey, I dream of building AI systems that ca
 - Turn curiosity into **innovative projects**  
 
 ---
-
-## 🛠️ What I’m Learning
-```python
-skills = ["Deep Learning", "Computer Vision", "Computational Logic", "Data Engineering"]
-for skill in skills:
-    print(f"💡 Currently improving: {skill}")
-```
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinaLazzati&hide=stars&show=discussions_started,discussions_answered)
