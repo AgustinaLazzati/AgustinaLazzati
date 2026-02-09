@@ -14,4 +14,5 @@ Even though I'm just starting my journey, I dream of building AI systems that ca
 - Turn curiosity into **innovative projects**  
 
 ---
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AgustinaLazzati&show_icons=true&hide=stars&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AgustinaLazzati&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinaLazzati&layout=compact&theme=radical)
