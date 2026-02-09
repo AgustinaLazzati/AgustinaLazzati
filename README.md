@@ -11,8 +11,8 @@ Even though I'm just starting my journey, I dream of building AI systems that ca
 
 ## Latest Projects
 Here are some academic projects I’ve been working on:
-- [Automatic License Plate Detection using YOLO](https://github.com/AgustinaLazzati/Automatic-License-Plate-Recognition)  
-- [Automatic Helicobacter pylori Diagnosis](https://github.com/AgustinaLazzati/Medical-Imaging)
+- [Automatic License Plate Recognition using YOLO](https://github.com/AgustinaLazzati/Automatic-License-Plate-Recognition)  
+- [Automatic Helicobacter Pylori Diagnosis](https://github.com/AgustinaLazzati/Medical-Imaging)
 
 ## Languages & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
